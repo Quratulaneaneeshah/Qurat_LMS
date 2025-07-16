@@ -1,0 +1,35 @@
+[
+  {
+    "title":"pyhton crash course",
+    "author": "Eric Matthes",
+    "publication_year": 2019,
+    "genre":"Programming",
+    "read_status": false,
+    "added_data": "2025-05-12 12:20:39"
+  },
+  {
+    "title":"Think Python",
+    "author": "Allen B. Downey",
+    "publication_year": 2015,
+    "genre":"Conceptual Learning, Academic Style, Beginner Friendly, Problem Solving, Step-by-Step Explanation",
+    "read_status": true,
+    "added_data": "2025-05-12 12:30:80"
+  },
+  {
+    "title":"Fluent Python",
+    "author": " Luciano Ramalho",
+    "publication_year": 2021,
+    "genre":"Advanced Programming, Pythonic Code, Data Structures",
+    "read_status": true,
+    "added_data": "2025-05-12 12:40:20"
+  },
+  {    
+    "title":" Learning Python",
+    "author": "Mark Lutz",
+    "publication_year": 2013,
+    "genre":"In-Depth Theory, Core Python, Reference Book, Beginner to Advanced Learning",
+    "read_status": true,
+    "added_data": "2025-05 12:58:10"
+    
+  }
+]
